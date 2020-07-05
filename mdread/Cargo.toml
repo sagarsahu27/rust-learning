@@ -1,0 +1,11 @@
+[package]
+name = "mdread"
+version = "0.1.0"
+authors = ["Sagar Sahu <sagarsahu27@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.1"
+pulldown-cmark = "0.7.2"
